@@ -1,12 +1,12 @@
-name: SkyBlock
-description: A powerful core for SkyBlock servers
-author: GiantQuartz
-website: twitter.com/GiantQuartz
+name: Ore Tracker
+description: Allows Users To Track Ores
+author: solopaw
+website: facebook.com/joelswift22
 main: room17\SkyBlock\SkyBlock
 version: 3.0.0
 api: 3.0.0
 
 permissions:
-  skyblock.interaction:
+  oreTracker.perm1:
     description: Allows players to interact with an island regardless of whether they belong to it
     default: op

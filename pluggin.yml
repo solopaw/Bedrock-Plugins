@@ -2,7 +2,7 @@ name: Ore Tracker
 description: Allows Users To Track Ores
 author: solopaw
 website: facebook.com/joelswift22/
-main: solopaw\Bedrock-Plugins\main
+main: solopaw\Bedrock-Plugins\Main
 version: 3.0.0
 api: 3.0.0
 

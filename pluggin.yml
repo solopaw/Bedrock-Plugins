@@ -1,8 +1,8 @@
 name: Ore Tracker
 description: Allows Users To Track Ores
 author: solopaw
-website: facebook.com/joelswift22
-main: room17\SkyBlock\SkyBlock
+website: facebook.com/joelswift22/src
+main: solopaw\Bedrock-Plugins
 version: 3.0.0
 api: 3.0.0
 
